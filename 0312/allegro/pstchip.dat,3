@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 16.6.0 d001Mar-12-2024 at 09:24:39}
+{ Using PSTWRITER 16.6.0 d001Mar-12-2024 at 09:25:42}
 primitive 'BATTERY_JUMPER2_+9V';
   pin
     '+':

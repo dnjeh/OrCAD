@@ -2,8 +2,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
-|  C:/USERS/USER/DOCUMENTS/TEMP/allegro/ASTABLE-MV.brd                         |
-|                                                    Tue Mar 12 09:26:03 2024  |
+|  C:/USERS/USER/DOWNLOADS/ASDF/ORCAD/0312/allegro/ASTABLE-MV.brd              |
+|                                                    Tue Mar 12 10:02:31 2024  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -58,8 +58,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|  C:/USERS/USER/DOCUMENTS/TEMP/allegro/ASTABLE-MV.brd                         |
-|                                                    Tue Mar 12 09:26:03 2024  |
+|  C:/USERS/USER/DOWNLOADS/ASDF/ORCAD/0312/allegro/ASTABLE-MV.brd              |
+|                                                    Tue Mar 12 10:02:31 2024  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -70,8 +70,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
-|  C:/USERS/USER/DOCUMENTS/TEMP/allegro/ASTABLE-MV.brd                         |
-|                                                    Tue Mar 12 09:26:03 2024  |
+|  C:/USERS/USER/DOWNLOADS/ASDF/ORCAD/0312/allegro/ASTABLE-MV.brd              |
+|                                                    Tue Mar 12 10:02:31 2024  |
 |------------------------------------------------------------------------------|
 | COMPONENT DEFINITION added to board drawing                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -88,8 +88,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
-|  C:/USERS/USER/DOCUMENTS/TEMP/allegro/ASTABLE-MV.brd                         |
-|                                                    Tue Mar 12 09:26:03 2024  |
+|  C:/USERS/USER/DOWNLOADS/ASDF/ORCAD/0312/allegro/ASTABLE-MV.brd              |
+|                                                    Tue Mar 12 10:02:31 2024  |
 |------------------------------------------------------------------------------|
 | COMPONENTS ADDED to board drawing                                            |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
@@ -118,8 +118,8 @@
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
-|  C:/USERS/USER/DOCUMENTS/TEMP/allegro/ASTABLE-MV.brd                         |
-|                                                    Tue Mar 12 09:26:03 2024  |
+|  C:/USERS/USER/DOWNLOADS/ASDF/ORCAD/0312/allegro/ASTABLE-MV.brd              |
+|                                                    Tue Mar 12 10:02:31 2024  |
 |------------------------------------------------------------------------------|
 | SLOT PROPERTIES added to board drawing                                       |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |

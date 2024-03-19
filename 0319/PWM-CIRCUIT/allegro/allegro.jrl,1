@@ -1,0 +1,14 @@
+\t (00:00:00) allegro 16.6 B033 (v16-6-111A) Windows 32
+\t (00:00:00)     Journal start - Tue Mar 19 09:47:38 2024
+\t (00:00:00)         Host=513-PC02 User=user Pid=5692 CPUs=12
+\t (00:00:00) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Database opened: D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd
+\i (00:00:03) trapsize 15274
+\i (00:00:03) trapsize 14873
+\i (00:00:04) trapsize 15343
+\i (00:00:04) trapsize 12555
+\i (00:00:04) trapsize 19749
+\i (00:00:05) generaledit 
+\i (00:00:24) exit 
+\t (00:00:24)     Journal end - Tue Mar 19 09:48:02 2024

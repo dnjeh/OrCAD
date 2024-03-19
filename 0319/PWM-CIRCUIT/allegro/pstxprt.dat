@@ -1,0 +1,300 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-19-2024 at 09:49:35 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PWM-CIRCUIT';
+ POST_TIME='Sep  3 2012 03:32:19';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP300_0.001UF':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS654@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins654@discrete.\cap np.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins654@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP300_0.001UF':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS638@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins638@discrete.\cap np.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins638@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_CAP300_0.0033UF':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS686@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins686@discrete.\cap np.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins686@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_CAP300_0.1UF':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS670@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins670@discrete.\cap np.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins670@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE ZENER_DO41_ZD5.1V':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS783@DISCRETE.DIODE ZENER.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins783@discrete.\diode zener.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins783@discrete.\diode zener.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DO41_1S1588':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS584@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins584@discrete.\diode.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins584@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS281@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins281@connector.\con2.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins281@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON2_JUMPER2_CON2':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS297@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins297@connector.\con2.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins297@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON3_JUMPER3_CON3':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS324@CONNECTOR.CON3.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins324@connector.\con3.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins324@connector.\con3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN ECB_TO92_2SC1815':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS611@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins611@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins611@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES400_100K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS351@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins351@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins351@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'RESISTOR_RES400_RESISTOR':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS431@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins431@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins431@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS511@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins511@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins511@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'RESISTOR_RES400_4.7K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS527@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins527@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins527@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'RESISTOR_RES400_470':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS543@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins543@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins543@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES400_3.3K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS367@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins367@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins367@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES400_1M':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS479@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins479@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins479@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS399@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins399@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins399@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS383@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins383@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins383@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'RESISTOR_RES400_1':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS463@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins463@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins463@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS415@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins415@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins415@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'RESISTOR_RES400_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS495@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins495@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins495@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'RESISTOR_RES400_3.9K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS447@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins447@discrete.\resistor.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins447@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'LF356_1_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS3726@PWM-CIRCUIT.LF356_1.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins3726@\pwm-circuit\.\lf356_1.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins3726@\pwm-circuit\.\lf356_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS66@PWM-CIRCUIT.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins66@\pwm-circuit\.\lf356_0.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins66@\pwm-circuit\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS96@PWM-CIRCUIT.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins96@\pwm-circuit\.\lf356_0.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins96@\pwm-circuit\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'LF356_0_DIP8_3_LF356':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS126@PWM-CIRCUIT.LF356_0.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins126@\pwm-circuit\.\lf356_0.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins126@\pwm-circuit\.\lf356_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR1 'RESISTOR VAR 2_RESADJ_1M':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS758@DISCRETE.RESISTOR VAR 2.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins758@discrete.\resistor var 2.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins758@discrete.\resistor var 2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VR2 'RESISTOR VAR_RESADJ_10K':;
+
+SECTION_NUMBER 1
+ '@PWM-CIRCUIT.SCHEMATIC1(SCH_1):INS713@DISCRETE.RESISTOR VAR.NORMAL(CHIPS)':
+ C_PATH='@\pwm-circuit\.schematic1(sch_1):ins713@discrete.\resistor var.normal\(chips)',
+ P_PATH='@\pwm-circuit\.schematic1(sch_1):page1_ins713@discrete.\resistor var.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

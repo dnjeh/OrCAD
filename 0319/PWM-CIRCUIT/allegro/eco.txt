@@ -1,0 +1,207 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd                                |
+|                                                    Tue Mar 19 09:49:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins ADDED TO this new net
+                                 J3.1           R2.1           R9.2           
+                                 U1.4           U2.7           U3.7           
+                                 U4.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  -12V         pins ADDED TO this new net
+                                 J3.3           U1.7           U2.4           
+                                 U3.4           U4.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A1           pins ADDED TO this new net
+                                 D1.2           R3.2           R7.2           
+                                 U1.2           U1.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  B1           pins ADDED TO this new net
+                                 C1.1           R1.2           R4.1           
+                                 U2.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this new net
+                                 C2.1           C3.1           C4.1           
+                                 J1.2           J2.2           J3.2           
+                                 Q1.1           R12.2          R13.2          
+                                 U2.3           VR2.3          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00905       pins ADDED TO this new net
+                                 U4.3           VR2.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N00909       pins ADDED TO this new net
+                                 R9.1           VR2.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01168       pins ADDED TO this new net
+                                 J1.1           R1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01210       pins ADDED TO this new net
+                                 R7.1           U4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01226       pins ADDED TO this new net
+                                 D2.2           U4.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01236       pins ADDED TO this new net
+                                 C4.2           D2.1           R10.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01273       pins ADDED TO this new net
+                                 C3.2           Q1.3           R10.2          
+                                 R12.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd                                |
+|                                                    Tue Mar 19 09:49:36 2024  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N01367       pins ADDED TO this new net
+                                 R11.2          R13.1          U3.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01391       pins ADDED TO this new net
+                                 C2.2           D1.1           R2.2           
+                                 VR1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01415       pins ADDED TO this new net
+                                 R5.2           R6.2           U1.3           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01426       pins ADDED TO this new net
+                                 R3.1           R8.1           U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01469       pins ADDED TO this new net
+                                 R5.1           VR1.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N01710       pins ADDED TO this new net
+                                 C1.2           R4.2           R8.2           
+                                 U2.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N02797       pins ADDED TO this new net
+                                 Q1.2           R6.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  OUT          pins ADDED TO this new net
+                                 J2.1           R11.1          U3.6           
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd                                |
+|                                                    Tue Mar 19 09:49:36 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to board drawing                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ CAP NP_CAP300_0.001UF
+ CAP NP_CAP300_0.0033UF
+ CAP NP_CAP300_0.1UF
+ CON2_JUMPER2_CON2
+ CON3_JUMPER3_CON3
+ DIODE ZENER_DO41_ZD5.1V
+ DIODE_DO41_1S1588
+ LF356_0_DIP8_3_LF356
+ LF356_1_DIP8_3_LF356
+ NPN ECB_TO92_2SC1815
+ RESISTOR VAR 2_RESADJ_1M
+ RESISTOR VAR_RESADJ_10K
+ RESISTOR_RES400_1
+ RESISTOR_RES400_470
+ RESISTOR_RES400_100K
+ RESISTOR_RES400_10K
+ RESISTOR_RES400_1M
+ RESISTOR_RES400_3.3K
+ RESISTOR_RES400_3.9K
+ RESISTOR_RES400_4.7K
+ RESISTOR_RES400_RESISTOR
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd                                |
+|                                                    Tue Mar 19 09:49:36 2024  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to board drawing                                            |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP NP_CAP300_0.001UF 
+ C2                  CAP NP_CAP300_0.001UF 
+ C3                  CAP NP_CAP300_0.0033UF 
+ C4                  CAP NP_CAP300_0.1UF   
+ D1                  DIODE ZENER_DO41_ZD5.1V 
+ D2                  DIODE_DO41_1S1588     
+ J1                  CON2_JUMPER2_CON2     
+ J2                  CON2_JUMPER2_CON2     
+ J3                  CON3_JUMPER3_CON3     
+ Q1                  NPN ECB_TO92_2SC1815  
+ R1                  RESISTOR_RES400_100K  
+ R2                  RESISTOR_RES400_3.3K  
+ R3                  RESISTOR_RES400_1M    
+ R4                  RESISTOR_RES400_10K   
+ R5                  RESISTOR_RES400_10K   
+ R6                  RESISTOR_RES400_1     
+ R7                  RESISTOR_RES400_10K   
+ R8                  RESISTOR_RES400_10K   
+ R9                  RESISTOR_RES400_3.9K  
+ R10                 RESISTOR_RES400_RESISTOR 
+ R11                 RESISTOR_RES400_10K   
+ R12                 RESISTOR_RES400_4.7K  
+ R13                 RESISTOR_RES400_470   
+ U1                  LF356_1_DIP8_3_LF356  
+ U2                  LF356_0_DIP8_3_LF356  
+ U3                  LF356_0_DIP8_3_LF356  
+ U4                  LF356_0_DIP8_3_LF356  
+ VR1                 RESISTOR VAR 2_RESADJ_1M 
+ VR2                 RESISTOR VAR_RESADJ_10K 
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  D:/30602/PWM-CIRCUIT/allegro/PWM-CIRCUIT.brd                                |
+|                                                    Tue Mar 19 09:49:36 2024  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to board drawing                                       |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1.2                           PRIM_FILE      .\pstchip.dat
+ C2.2                           PRIM_FILE      .\pstchip.dat
+ C3.2                           PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ D1.1                           PRIM_FILE      .\pstchip.dat
+ D2.1                           PRIM_FILE      .\pstchip.dat
+ J1.2                           PRIM_FILE      .\pstchip.dat
+ J2.2                           PRIM_FILE      .\pstchip.dat
+ J3.3                           PRIM_FILE      .\pstchip.dat
+ Q1.1                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+ R5.2                           PRIM_FILE      .\pstchip.dat
+ R6.2                           PRIM_FILE      .\pstchip.dat
+ R7.2                           PRIM_FILE      .\pstchip.dat
+ R8.2                           PRIM_FILE      .\pstchip.dat
+ R9.2                           PRIM_FILE      .\pstchip.dat
+ R10.2                          PRIM_FILE      .\pstchip.dat
+ R11.2                          PRIM_FILE      .\pstchip.dat
+ R12.2                          PRIM_FILE      .\pstchip.dat
+ R13.2                          PRIM_FILE      .\pstchip.dat
+ U1.4                           PRIM_FILE      .\pstchip.dat
+ U2.4                           PRIM_FILE      .\pstchip.dat
+ U3.4                           PRIM_FILE      .\pstchip.dat
+ U4.4                           PRIM_FILE      .\pstchip.dat
+ VR1.2                          PRIM_FILE      .\pstchip.dat
+ VR2.2                          PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  152                                            |
+|------------------------------------------------------------------------------|

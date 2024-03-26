@@ -1,0 +1,110 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Mar-26-2024 at 08:57:29 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DNJEH';
+ POST_TIME='Sep  3 2012 03:32:19';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_CAP300_CAP NP':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS99@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins99@discrete.\cap np.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins99@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_CAP300_CAP NP':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS115@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins115@discrete.\cap np.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins115@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE_DO41_DIODE':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS187@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins187@discrete.\diode.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins187@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'DIODE_DO41_DIODE':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS203@DISCRETE.DIODE.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins203@discrete.\diode.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins203@discrete.\diode.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 'NPN ECB_TO92_NPN ECB':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS142@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins142@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins142@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 'NPN ECB_TO92_NPN ECB':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS160@TRANSISTOR.NPN ECB.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins160@transistor.\npn ecb.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins160@transistor.\npn ecb.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RESISTOR_RES400_27K':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS26@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins26@discrete.\resistor.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins26@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RESISTOR_RES400_27K':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS42@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins42@discrete.\resistor.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins42@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS58@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins58@discrete.\resistor.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins58@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RESISTOR_RES400_1K':;
+
+SECTION_NUMBER 1
+ '@DNJEH.SCHEMATIC1(SCH_1):INS74@DISCRETE.RESISTOR.NORMAL(CHIPS)':
+ C_PATH='@dnjeh.schematic1(sch_1):ins74@discrete.\resistor.normal\(chips)',
+ P_PATH='@dnjeh.schematic1(sch_1):page1_ins74@discrete.\resistor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

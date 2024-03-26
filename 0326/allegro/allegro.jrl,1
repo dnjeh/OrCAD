@@ -1,0 +1,110 @@
+\t (00:00:00) allegro 16.6 B033 (v16-6-111A) Windows 32
+\t (00:00:00)     Journal start - Tue Mar 26 08:57:31 2024
+\t (00:00:00)         Host=513-PC02 User=user Pid=3412 CPUs=12
+\t (00:00:00) 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Database opened: D:/30602/0326/allegro/DNJEH.brd
+\i (00:00:02) trapsize 15274
+\i (00:00:02) trapsize 14873
+\i (00:00:02) trapsize 15343
+\i (00:00:02) trapsize 15770
+\i (00:00:02) trapsize 12555
+\i (00:00:03) trapsize 15770
+\i (00:00:03) trapsize 12555
+\i (00:00:03) trapsize 19749
+\i (00:00:03) generaledit 
+\i (00:02:00) pick grid 18287.25 18168.76
+\t (00:02:00) last pick:  18300.00  18200.00
+\i (00:02:10) color192 
+\i (00:02:10) setwindow cvf.dialog
+\i (00:02:10) cvf layer_mode
+\i (00:02:10) setwindow pcb
+\i (00:02:10) generaledit 
+\i (00:02:17) setwindow cvf.dialog
+\i (00:02:17) cvf global_invisible
+\i (00:02:20) cvf layers_visible board_geometry/outline TRUE
+\i (00:02:21) cvf layer_tree_item 'Package Geometry'
+\i (00:02:21) cvf layer_tree_item 'Board Geometry'
+\i (00:02:23) cvf layers_visible board_geometry/silkscreen_top TRUE
+\i (00:02:29) cvf layer_tree_item 'Package Geometry'
+\i (00:02:31) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:02:32) cvf layer_tree_item 'Areas'
+\i (00:02:32) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:02:32) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:02:33) cvf layer_tree_item 'Stack-Up'
+\i (00:02:36) cvf layers_visible stack-up via/all_row TRUE
+\i (00:02:37) cvf layers_visible stack-up pin/all_row TRUE
+\i (00:02:37) cvf layers_visible stack-up etch/all_row TRUE
+\i (00:02:38) cvf layers_visible stack-up drc/all_row TRUE
+\i (00:02:39) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:02:40) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:02:41) cvf layer_tree_item 'Board Geometry'
+\i (00:02:42) cvf layer_tree_item 'Package Geometry'
+\i (00:02:45) cvf layers_visible package_geometry/silkscreen_top TRUE
+\i (00:02:52) cvf layer_tree_item 'Components'
+\i (00:02:56) cvf layers_visible components ref_des/silkscreen_top TRUE
+\i (00:02:58) cvf layer_tree_item 'Embedded Geomerty'
+\i (00:03:05) cvf layer_tree_item 'Manufacturing'
+\i (00:03:07) cvf layer_tree_item 'Analysis'
+\i (00:03:07) cvf layer_tree_item 'Drawing Format'
+\i (00:03:09) cvf okay
+\i (00:03:13) setwindow pcb
+\i (00:03:13) prmed 
+\i (00:03:15) setwindow form.prmedit
+\i (00:03:15) FORM prmedit design  
+\i (00:03:18) FORM prmedit units Millimeter 
+\e (00:03:18) Change may cause round-off; run dbcheck.
+\i (00:03:20) FORM prmedit size A4 
+\i (00:03:27) FORM prmedit accuracy 3 
+\e (00:03:27) Change may cause round-off; run dbcheck.
+\i (00:03:29) FORM prmedit x -70.000 
+\i (00:03:43) FORM prmedit y -70.000 
+\i (00:03:43) FORM prmedit done  
+\w (00:03:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:03:43) setwindow pcb
+\i (00:03:43) trapsize 1885
+\t (00:03:43) Performing DRC...
+\t (00:03:43) Multithreaded DRC update (12 threads).
+\t (00:03:44) No DRC errors detected.
+\i (00:03:44) generaledit 
+\i (00:04:02) add line 
+\i (00:04:16) setwindow form.mini
+\i (00:04:16) FORM mini line_width 0.300 
+\i (00:04:32) setwindow pcb
+\i (00:04:32) pick 0 0 
+\t (00:04:32) last pick:  0.000  0.000
+\i (00:04:38) ipick 70 
+\t (00:04:38) last pick:  70.000  0.000
+\i (00:04:41) ipick 0 70 
+\t (00:04:41) last pick:  70.000  70.000
+\i (00:04:44) ipick -70 
+\t (00:04:44) last pick:  0.000  70.000
+\i (00:04:55) ipick 0 -70 
+\t (00:04:55) last pick:  0.000  0.000
+\i (00:04:56) prepopup 70.251 -31.921
+\i (00:04:57) done 
+\i (00:04:57) generaledit 
+\i (00:04:58) trapsize 1308
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 28.854 57.360
+\i (00:04:59) trapsize 1308
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 28.854 56.837
+\i (00:04:59) trapsize 1308
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 28.854 56.575
+\i (00:04:59) trapsize 1308
+\i (00:04:59) zoom out 1 
+\i (00:04:59) setwindow pcb
+\i (00:04:59) zoom out 29.900 56.575
+\i (00:04:59) trapsize 1308
+\i (00:06:07) pick grid 143.661 29.900
+\t (00:06:07) last pick:  144.780  30.480
+\i (00:06:07) save 
+\i (00:06:10) fillin yes 
+\i (00:06:10) generaledit 
+\i (00:06:10) exit 
+\t (00:06:10)     Journal end - Tue Mar 26 09:03:41 2024
